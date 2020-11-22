@@ -7,7 +7,7 @@ Link to the game: https://repl.it/@mohinimahato/neoGCamp-Assignment11-1#index.js
 ### readline-sync
 ### chalk 
 
-### More about the game:
+## More about the game:
 This game is build for the people who love F.R.I.E.N.D.S as much as I do,
 there are 5 questions in total, +2 for every correct answer and -1 for a wrong 
 answer.
