@@ -1,4 +1,5 @@
 # CLI-App-02
+### (F.R.I.E.N.D.S Trivia Quiz)
 ## Node-JS-Quiz-App
 
 Link to the game: https://repl.it/@mohinimahato/neoGCamp-Assignment11-1#index.js
